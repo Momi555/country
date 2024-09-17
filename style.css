@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+  footer{
+    background-color: lightpink;
+    color: white;
+    text-align: center;
+    padding: 5%;
+    font-size: 20px;
+}
+main{
+    background-color: aqua;
+    display: grid;
+    grid-template-columns: 15% 85%;
+    height: 300px;
+}
+nav{
+    background-color: rgb(198, 185, 188);
+}
+section{
+    background-color: blueviolet;
+}
